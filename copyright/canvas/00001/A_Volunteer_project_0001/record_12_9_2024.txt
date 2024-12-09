@@ -2,7 +2,11 @@ ENGLISH:
 
 Author: Lê Ngọc Cương
 Document type: Source Record
+Link: https://www.canva.com/design/DAGYrdU5_Bc/ZeL5S-n5PjTNoqSwetwW3g/edit?utm_content=DAGYrdU5_Bc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+Here is a table that lists all media name(s), and origin author(s) of a part/whole in each media:
 Name                            Link(s)                                              Author(s)                         Author Link(s)                                     Note(s)
-2nd slides, "rect1.png"         NULL                                                 Nu Eul                            https://x.com/NN_Eul_01/media                      partly used
+2nd slides, "rect1.png"         ----                                                 TnVFdWw=                          aHR0cHM6Ly94LmNvbS9OTl9FdWxfMDEvbWVkaWE=           partly used
+
+Note: the "Author(s)", "Author Link(s)", and "Link(s)" will be formatted to Base64, except if they had "----"
 
